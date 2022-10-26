@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Complete IELTS Preparation"
+    },
+    {
+        "id": "02",
+        "name": "TOEFL iBT Complete Preparation Course"
+    },
+    {
+        "id": "03",
+        "name": "GRE Complete Preparation"
+    },
+    {
+        "id": "04",
+        "name": "GMAT Complete Math"
+    },
+    {
+        "id": "05",
+        "name": "GMAT Complete Verbal"
+    },
+    {
+        "id": "06",
+        "name": "SAT"
+    }
+]
