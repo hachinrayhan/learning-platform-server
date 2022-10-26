@@ -1,26 +1,86 @@
 [
     {
         "id": "01",
-        "name": "Complete IELTS Preparation"
+        "name": "Complete IELTS Preparation",
+        "creator": "David Morris",
+        "total_hours": "50 hrs",
+        "lectures": "80",
+        "price": "54.99",
+        "image": "https://media.istockphoto.com/photos/red-word-letters-ielts-on-white-pedestal-picture-id1196117817?b=1&k=20&m=1196117817&s=612x612&w=0&h=6eUZciqoivOTP_d1JCx5dQ0awLnvDlHRvptcuH6Pl4U=",
+        "learnings": [
+            "Learn strategies and skills to pass the IELTS test",
+            "Achieve an IELTS band score of 6 to 7 or higher",
+            "Learn what to write for IELTS Writing Task 1 and Task 2 (academic)"
+        ]
     },
     {
         "id": "02",
-        "name": "TOEFL iBT Complete Preparation Course"
+        "name": "TOEFL iBT Complete Preparation Course",
+        "creator": "Tojo Baroi",
+        "total_hours": "45 hrs",
+        "lectures": "93",
+        "price": "64.99",
+        "image": "https://media.istockphoto.com/photos/toefl-server-message-block-letters-on-wooden-cubes-on-white-picture-id1319577482?b=1&k=20&m=1319577482&s=612x612&w=0&h=wHziA-BLV19PD5Oz4YjQ8W106b41yM7hnTJbVtbNWlo=",
+        "learnings": [
+            "Learn strategies and skills to pass the IELTS test",
+            "Achieve an IELTS band score of 6 to 7 or higher",
+            "Learn what to write for IELTS Writing Task 1 and Task 2 (academic)"
+        ]
     },
     {
         "id": "03",
-        "name": "GRE Complete Preparation"
+        "name": "GRE Complete Preparation",
+        "creator": "Clenton Jr.",
+        "total_hours": "40 hrs",
+        "lectures": "81",
+        "price": "34.99",
+        "image": "https://media.istockphoto.com/photos/concept-of-gre-exam-in-wooden-block-letters-on-table-picture-id1171161902?b=1&k=20&m=1171161902&s=612x612&w=0&h=OXw6f2s0N8mUtC4XiQUARJZ8IXK0l5rdk_5EVf6IsjE=",
+        "learnings": [
+            "Students will learn how to master the most difficult GRE topics through high-yield lectures and plenty of examples.",
+            "Math Principles",
+            "Algebra"
+        ]
     },
     {
         "id": "04",
-        "name": "GMAT Complete Math"
+        "name": "GMAT Complete Math",
+        "creator": "Jeorge W Patel",
+        "total_hours": "70 hrs",
+        "lectures": "110",
+        "price": "79.99",
+        "image": "https://media.istockphoto.com/photos/graduate-management-admission-test-or-exam-in-wooden-block-letters-picture-id1171162227?b=1&k=20&m=1171162227&s=612x612&w=0&h=TjPsDm4ZS8sozK-O7ZPQIaNYm7jdn2dJ3Hw4aA3fIDs=",
+        "learnings": [
+            "Students will learn how to master the most difficult GMAT mathematics topics through high-yield lectures and plenty of examples.",
+            "Math Principles",
+            "Algebra"
+        ]
     },
     {
         "id": "05",
-        "name": "GMAT Complete Verbal"
+        "name": "GMAT Complete Verbal",
+        "creator": "David Millar",
+        "total_hours": "30 hrs",
+        "lectures": "90",
+        "price": "59.99",
+        "image": "https://media.istockphoto.com/photos/close-up-interviewer-interview-candidate-apply-for-job-at-meeting-in-picture-id1159531985?k=20&m=1159531985&s=612x612&w=0&h=txo0j5e-FY_1r6TCEvU83y-xZ-HUznAt2qrONklsDHs=",
+        "learnings": [
+            "Learn the GMAT exam structure, both online and in-person",
+            "Learn how to solve GMAT reading comprehension questions",
+            "Learn how to solve GMAT critical reasoning questions"
+        ]
     },
     {
         "id": "06",
-        "name": "SAT"
+        "name": "The Complete SAT Course",
+        "creator": "Robert Haris",
+        "total_hours": "25 hrs",
+        "lectures": "55",
+        "price": "44.99",
+        "image": "https://media.istockphoto.com/photos/high-school-student-filling-out-test-answers-with-pen-picture-id1278978402?k=20&m=1278978402&s=612x612&w=0&h=CuZqIY6wTLX_eLmWzQ9kUjSQtHEG3TE-DTtla5ioOqg=",
+        "learnings": [
+            "You will learn how to improve your SAT score by 200 points",
+            "You will learn 100 strategies to ace the SAT",
+            "You will master the SAT math sections"
+        ]
     }
 ]
